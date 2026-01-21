@@ -1,11 +1,6 @@
 # ⚡ Polyspace
 ![Polyspace](assets/background.png)
-Solana-native execution and payment protocol for autonomous agents.  
-Machine-to-machine coordination, without intermediaries.
-
-[![GitHub](https://img.shields.io/badge/GitHub-runicprotocol-blue)](https://github.com/polyspacelabs-ops/polyspace-sdk)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+Polyspace is a chain-agnostic execution protocol that provides a unified space for deterministic, parallel execution.
 ---
 
 ## 1. Overview
